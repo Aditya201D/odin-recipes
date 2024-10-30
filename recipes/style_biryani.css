@@ -22,3 +22,24 @@ p{
     background-color: rgb(20,40,0);
     color:beige;
 }
+
+h3{
+    background-color: yellowgreen;
+    color: maroon;
+    font-style: italic;
+}
+
+ul,
+ol{
+    background-color: aliceblue;
+    color:darkgreen;
+}
+
+a{
+    text-align: center;
+}
+a .link{
+    background-color: maroon;
+    color:yellow;
+    font-weight: bold;
+}
