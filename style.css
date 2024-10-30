@@ -14,3 +14,7 @@ h4{
     color: darkgoldenrod;
     background-color: hsl(3, 93%, 12%);
 }
+
+body ol{
+    background-color: lightpink;
+}
