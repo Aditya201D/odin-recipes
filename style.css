@@ -24,4 +24,7 @@ h4{
 
 body ol{
     background-color: lightpink;
+    box-sizing: content-box;
+    border: 10px solid maroon;
+    margin: 20px;
 }
